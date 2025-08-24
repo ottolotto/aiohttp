@@ -45,3 +45,8 @@ aiohttp/_websocket.html
 .develop
 .gitconfig
 .flake
+
+# Webapp frontend build artifacts
+webapp/frontend/node_modules
+webapp/frontend/dist
+webapp/backend/data.pkl
